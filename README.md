@@ -1,3 +1,3 @@
-powerbi project 
-!['dahboard having adverse event trends']('https://github.com/KuSHagragARG-DEBUG/power-bi-dasboard/blob/main/power%20bi%20dashboard%20img1.PNG')
+###PowerBI-Food And Beverages: Adverse Event Report Analysis
+
 '
