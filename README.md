@@ -15,6 +15,13 @@
 - **Symptom Severity Index:** An illustration to help prioritize the response according to the frequency and severity of symptoms reported.
 - **Predictive Modeling** Predicts future patterns and the possible escalation of unfavorable situations using predictive analytics.
 - **Outcome-Centric View:** Evaluates the effect on public health by examining the connection between unfavorable occurrences and their consequences, such as hospital stays and ER visits.
+## Technical Summary 
+Large datasets have been handled and analyzed with effectiveness by using Power BI's data modeling features and advanced DAX functions.Product roles, age bins, industry names, and other customizable filters and slicers for dynamic data exploration. use Power BI's analytics to forecast patterns using past data.
+## Conclusion 
+An essential resource for manufacturers, public health experts, and regulatory agencies, this dashboard converts the vast CAERS dataset into insights that can be put into practice. In the end, preserving consumer health is aided by the analysis and visualizations that improve product safety and industry performance.
+
+
+
  
  
 
