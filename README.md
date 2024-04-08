@@ -24,5 +24,12 @@ An essential resource for manufacturers, public health experts, and regulatory a
 
  
  
+<img width="641" alt="power bi dashboard img1" src="https://github.com/KuSHagragARG-DEBUG/power-bi-dasboard/assets/130494723/73418238-38b3-4509-9cdb-a81b4303b2d4">
 
 '
+<img width="608" alt="power bi dashboard img2" src="https://github.com/KuSHagragARG-DEBUG/power-bi-dasboard/assets/130494723/25005fa6-43ec-4097-a029-399196f824ae">
+
+
+<img width="608" alt="powerbi dasboard img3" src="https://github.com/KuSHagragARG-DEBUG/power-bi-dasboard/assets/130494723/979487d8-d3cc-4767-a95a-da70a9543538">
+
+<img width="605" alt="power bi dasboard img4" src="https://github.com/KuSHagragARG-DEBUG/power-bi-dasboard/assets/130494723/5ea8b147-4f77-4079-8bb3-f055cb50c54b">
